@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, my name is matito8877 👋
 
-<!--
-**matito8877/matito8877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a back and front programmer.
 
-Here are some ideas to get you started:
+I have experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔵HTML
+🟠JAVA
+🟠JAVASCRIPT
+🔵C++
+🔴TESTING
+🟤PHP
+🟣MYSQL
