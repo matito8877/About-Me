@@ -4,13 +4,12 @@ I am a full stack junior programmer. Im Passionate about creating technological 
 
 Abilities in:
 
-🔵HTML
-🔵C++
-🟠JAVA
-🟠JAVASCRIPT
-🟤PHP
-🟣MYSQL
-🔴TESTING
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/c++-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/PHP-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/Testing-red">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-orange">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-orange">
 
