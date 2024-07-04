@@ -14,11 +14,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate junior fullstack developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Currently learning Web Development
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
