@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Matias Bevilacqua </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roman&pause=1000&random=true&width=435&lines=Learning+new+stuff+..+%3C3;Programmer+student;Active+Learner%2FResearcher;FullStack+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roman&pause=1000&random=true&width=435&lines=Learning+new+stuff+..+%3C3;Programmer+student;Active+Learner%2FResearcher;FullStack+developer" alt="Typing SVG" /></a>
 </p>
 
 <br>
