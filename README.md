@@ -15,7 +15,6 @@
 <br>
 
 - A passionate junior fullstack developer
-- Playing CTF's at spare time
 - Currently learning Web Development
 - I’m currently open for an Intern or a new job opportunity
 
