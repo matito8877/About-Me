@@ -11,5 +11,5 @@ Abilities in:
 🟤PHP
 🟣MYSQL
 🔴TESTING
-image:https://img.shields.io/badge/JavaScript-orange[Static Badge]
+/static/Java/Script/orange 
 
