@@ -94,16 +94,8 @@
 <ul>
 
 <li>
-<a href=["https://www.linkedin.com/in/matias-bevilacqua-b5278b314/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Matias Bevilacqua-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
 <a href="matiasbevilacquadeveloper@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Matias Bevilacqua-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  matiasbevilacquadeveloper@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
